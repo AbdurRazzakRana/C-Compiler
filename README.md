@@ -22,8 +22,11 @@ Make files using these 3 tools, please make sure they are set up.
 
 ## Running the C-Compiler
 1. Bind the projects and make executable from the project directory terminal: **make**
-   It will produce **compiler** executable file
-2. Run your c code with the produced compiler and generate the output MIPS code: **./compiler -d -o output < your_c_file.c**
+
+   It will produce **compiler** executable file.
+3. Run your c code with the produced compiler and generate the output MIPS code: **./compiler -d -o output < your_c_file.c**
+
    If the c program is correct, it will create **output.asm** file that contains MIPS instructions. **-d** is to turn off the debug outputs and **-o output**for to write the outcome of this execution into output.asm file.
-3. Test the compilers by checking the output of the assembly: **java -jar Mars4_5.jar sm output.asm**
+5. Test the compilers by checking the output of the assembly: **java -jar Mars4_5.jar sm output.asm**
+
    It will run the output.asm file and please observe the behavior of the running program as you wrote your c file.
