@@ -15,3 +15,15 @@ This compiler takes a c program as an input, parses it, constructs an abstract s
 - **emit_private.c:** is the main responsible file that contains all helper functions for generating MIPS dynamic code for different statements and expressions. 
 
 ![Structure of C-Compiler](https://github.com/AbdurRazzakRana/C-Compiler/blob/main/c-compiler-architecture.png)
+
+## Pre-Environment to Run the Code
+lex, yacc, gcc 
+Make files using these 3 tools, please make sure they are set up.
+
+## Running the C-Compiler
+1. Bind the projects and make executable from the project directory terminal: **make**
+   It will produce **compiler** executable file
+2. Run your c code with the produced compiler and generate the output MIPS code: **./compiler -d -o output < your_c_file.c**
+   If the c program is correct, it will create **output.asm** file that contains MIPS instructions. **-d** is to turn off the debug outputs and **-o output**for to write the outcome of this execution into output.asm file.
+3. Test the compilers by checking the output of the assembly: **java -jar Mars4_5.jar sm output.asm**
+   It will run the output.asm file and please observe the behavior of the running program as you wrote your c file.
