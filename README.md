@@ -13,3 +13,5 @@ This compiler takes a c program as an input, parses it, constructs an abstract s
 - **ast.c:**  is the Abstract Syntax Tree where each node can only have 2 children, s1 and s2. To Point to the same level next task, it has a variable next. For example int a; int b; node Variable Declaration a has next pointed to Variable Declaration b. Each node also keeps some other information like name, data type, offset level, etc.
 - **emit.c:** is exposure function to yacc. It is called after generating the AST and only the head of the structure is given to emit.c. It generates codes for global variables, stings, and necessary rudimentary MIPS codes in the given output file and then calls emit_private to generate code for different cases.
 - **emit_private.c:** is the main responsible file that contains all helper functions for generating MIPS dynamic code for different statements and expressions. 
+
+![Structure of C-Compiler](https://github.com/AbdurRazzakRana/C-Compiler/blob/main/c-compiler-architecture.png)
