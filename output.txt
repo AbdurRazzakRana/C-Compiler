@@ -1,0 +1,747 @@
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t0		2		1		0
+	test_read_write_global		0		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t7		10		3		0
+	_t6		9		3		0
+	_t5		8		2		0
+	_t4		7		2		0
+	_t3		6		1		0
+	_t2		5		1		0
+	_t1		4		1		0
+	j		3		1		0
+	i		2		1		0
+	test_while_loop		0		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t9		10		2		0
+	_t8		9		2		0
+	_t5		8		2		0
+	_t4		7		2		0
+	_t3		6		1		0
+	_t2		5		1		0
+	_t1		4		1		0
+	j		3		1		0
+	i		2		1		0
+	test_while_loop		0		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t3		6		1		0
+	_t2		5		1		0
+	_t1		4		1		0
+	j		3		1		0
+	i		2		1		0
+	test_while_loop		0		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t13		6		2		0
+	_t12		5		2		0
+	_t11		4		1		0
+	_t10		3		1		0
+	i		2		1		0
+	test_read_write_array_global		0		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t18		9		2		0
+	_t17		8		2		0
+	_t16		7		2		0
+	_t15		6		1		0
+	_t14		5		1		0
+	_t11		4		1		0
+	_t10		3		1		0
+	i		2		1		0
+	test_read_write_array_global		0		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t15		6		1		0
+	_t14		5		1		0
+	_t11		4		1		0
+	_t10		3		1		0
+	i		2		1		0
+	test_read_write_array_global		0		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t22		26		1		0
+	_t21		25		1		0
+	_t20		24		1		0
+	_t19		23		1		0
+	B		13		1		0
+	C		3		1		0
+	i		2		1		0
+	test_double_array		0		0		1
+	test_read_write_array_global		10		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t26		19		1		0
+	_t25		18		1		0
+	_t24		17		1		0
+	_t23		16		1		0
+	B		6		1		0
+	i		5		1		0
+	b		4		1		0
+	arr		3		1		0
+	a		2		1		0
+	test_array_passing		0		0		1
+	test_double_array		27		0		1
+	test_read_write_array_global		10		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t27		2		1		0
+	f		0		0		0
+	test_array_passing		20		0		1
+	test_double_array		27		0		1
+	test_read_write_array_global		10		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t31		6		1		0
+	_t30		5		1		0
+	_t29		4		1		0
+	_t28		3		1		0
+	a		2		1		0
+	test_unary		0		0		1
+	f		3		0		0
+	test_array_passing		20		0		1
+	test_double_array		27		0		1
+	test_read_write_array_global		10		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t37		10		2		0
+	_t36		9		2		0
+	_t35		8		2		0
+	_t34		7		2		0
+	_t33		6		1		0
+	_t32		5		1		0
+	j		4		1		0
+	i		3		1		0
+	c		2		1		0
+	test_break_continue		0		0		0
+	test_unary		7		0		1
+	f		3		0		0
+	test_array_passing		20		0		1
+	test_double_array		27		0		1
+	test_read_write_array_global		10		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t33		6		1		0
+	_t32		5		1		0
+	j		4		1		0
+	i		3		1		0
+	c		2		1		0
+	test_break_continue		0		0		0
+	test_unary		7		0		1
+	f		3		0		0
+	test_array_passing		20		0		1
+	test_double_array		27		0		1
+	test_read_write_array_global		10		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t44		10		3		0
+	_t43		9		3		0
+	_t42		8		2		0
+	_t41		7		2		0
+	_t40		6		1		0
+	_t39		5		1		0
+	_t38		4		1		0
+	sum		3		1		0
+	i		2		1		0
+	test_if_else		0		0		1
+	test_break_continue		11		0		0
+	test_unary		7		0		1
+	f		3		0		0
+	test_array_passing		20		0		1
+	test_double_array		27		0		1
+	test_read_write_array_global		10		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t42		8		2		0
+	_t41		7		2		0
+	_t40		6		1		0
+	_t39		5		1		0
+	_t38		4		1		0
+	sum		3		1		0
+	i		2		1		0
+	test_if_else		0		0		1
+	test_break_continue		11		0		0
+	test_unary		7		0		1
+	f		3		0		0
+	test_array_passing		20		0		1
+	test_double_array		27		0		1
+	test_read_write_array_global		10		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t46		10		2		0
+	_t45		9		2		0
+	_t42		8		2		0
+	_t41		7		2		0
+	_t40		6		1		0
+	_t39		5		1		0
+	_t38		4		1		0
+	sum		3		1		0
+	i		2		1		0
+	test_if_else		0		0		1
+	test_break_continue		11		0		0
+	test_unary		7		0		1
+	f		3		0		0
+	test_array_passing		20		0		1
+	test_double_array		27		0		1
+	test_read_write_array_global		10		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t40		6		1		0
+	_t39		5		1		0
+	_t38		4		1		0
+	sum		3		1		0
+	i		2		1		0
+	test_if_else		0		0		1
+	test_break_continue		11		0		0
+	test_unary		7		0		1
+	f		3		0		0
+	test_array_passing		20		0		1
+	test_double_array		27		0		1
+	test_read_write_array_global		10		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+	LABEL		Offset 	 LEVEL 	 type
+	_t51		11		1		0
+	_t50		10		1		0
+	_t49		9		1		0
+	_t48		8		1		0
+	_t47		7		1		0
+	arr		2		1		0
+	main		0		0		1
+	test_if_else		11		0		1
+	test_break_continue		11		0		0
+	test_unary		7		0		1
+	f		3		0		0
+	test_array_passing		20		0		1
+	test_double_array		27		0		1
+	test_read_write_array_global		10		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+Finished Parsing
+
+
+
+	LABEL		Offset 	 LEVEL 	 type
+	p		103		0		0
+	main		12		0		1
+	test_if_else		11		0		1
+	test_break_continue		11		0		0
+	test_unary		7		0		1
+	f		3		0		0
+	test_array_passing		20		0		1
+	test_double_array		27		0		1
+	test_read_write_array_global		10		0		1
+	test_while_loop		11		0		1
+	test_read_write_global		3		0		1
+	A		3		0		0
+	z		2		0		0
+	y		1		0		0
+	x		0		0		0
+
+
+AST PRINT
+
+Variable INT x level 0 offset 0
+Variable INT y level 0 offset 1
+Variable INT z level 0 offset 2
+Variable INT A[100] level 0 offset 3
+Function VOID test_read_write_global level 0 offset 3
+ Compound Statement
+  Write String "\n-->FUNC START: test_read_write_global\n"
+  Write String "This function will read an variable and set to global array index and print from there\n"
+  Write String "enter X "
+  READ STATEMENT
+   VARIABLE x level 0 offset 0
+  Write String "Should print x, that is in A[10]\n"
+  ASSIGNMENT STATEMENT
+   VARIABLE A level 0 offset 3
+    [
+     NUMBER value 10
+    ]
+  is assigned
+   VARIABLE x level 0 offset 0
+  Write Expression
+   VARIABLE A level 0 offset 3
+    [
+     NUMBER value 10
+    ]
+  Write String "\n"
+  Write String "-->FUNC END\n"
+Function VOID test_while_loop level 0 offset 11
+ Compound Statement
+  Variable INT i level 1 offset 2
+  Variable INT j level 1 offset 3
+  Write String "\n-->FUNC START: test_while_loop\n"
+  Write String "This function will run a nested loop, outer loop for 3 and an inner loop for 3\n"
+  ASSIGNMENT STATEMENT
+   VARIABLE i level 1 offset 2
+  is assigned
+   NUMBER value 0
+  ASSIGNMENT STATEMENT
+   VARIABLE j level 1 offset 3
+  is assigned
+   NUMBER value 0
+  WHILE STATEMENT
+   WHILE expression
+    EXPRESSION operator <
+     VARIABLE i level 1 offset 2
+     NUMBER value 3
+   WHILE body
+    Compound Statement
+     ASSIGNMENT STATEMENT
+      VARIABLE j level 1 offset 3
+     is assigned
+      NUMBER value 0
+     WHILE STATEMENT
+      WHILE expression
+       EXPRESSION operator <
+        VARIABLE j level 1 offset 3
+        NUMBER value 3
+      WHILE body
+       Compound Statement
+        Write Expression
+         VARIABLE i level 1 offset 2
+        Write String " "
+        Write Expression
+         VARIABLE j level 1 offset 3
+        Write String "\n"
+        ASSIGNMENT STATEMENT
+         VARIABLE j level 1 offset 3
+        is assigned
+         EXPRESSION operator PLUS
+          VARIABLE j level 1 offset 3
+          NUMBER value 1
+     ASSIGNMENT STATEMENT
+      VARIABLE i level 1 offset 2
+     is assigned
+      EXPRESSION operator PLUS
+       VARIABLE i level 1 offset 2
+       NUMBER value 1
+  Write String "\n-->FUNC END\n"
+Function VOID test_read_write_array_global level 0 offset 10
+ Compound Statement
+  Variable INT i level 1 offset 2
+  Write String "\n-->FUNC START: test_read_write_array_global\n"
+  Write String "This function will read 5 numbers into global array and print sqare of them\n"
+  ASSIGNMENT STATEMENT
+   VARIABLE i level 1 offset 2
+  is assigned
+   NUMBER value 0
+  WHILE STATEMENT
+   WHILE expression
+    EXPRESSION operator <
+     VARIABLE i level 1 offset 2
+     NUMBER value 5
+   WHILE body
+    Compound Statement
+     Write String "enter X "
+     READ STATEMENT
+      VARIABLE A level 0 offset 3
+       [
+        VARIABLE i level 1 offset 2
+       ]
+     ASSIGNMENT STATEMENT
+      VARIABLE i level 1 offset 2
+     is assigned
+      EXPRESSION operator PLUS
+       VARIABLE i level 1 offset 2
+       NUMBER value 1
+  ASSIGNMENT STATEMENT
+   VARIABLE i level 1 offset 2
+  is assigned
+   NUMBER value 0
+  WHILE STATEMENT
+   WHILE expression
+    EXPRESSION operator <
+     VARIABLE i level 1 offset 2
+     NUMBER value 5
+   WHILE body
+    Compound Statement
+     Write String "\n"
+     Write Expression
+      EXPRESSION operator TIMES
+       VARIABLE A level 0 offset 3
+        [
+         VARIABLE i level 1 offset 2
+        ]
+       VARIABLE A level 0 offset 3
+        [
+         VARIABLE i level 1 offset 2
+        ]
+     ASSIGNMENT STATEMENT
+      VARIABLE i level 1 offset 2
+     is assigned
+      EXPRESSION operator PLUS
+       VARIABLE i level 1 offset 2
+       NUMBER value 1
+  Write String "\n-->FUNC END\n"
+Function VOID test_double_array level 0 offset 27
+ Compound Statement
+  Variable INT i level 1 offset 2
+  Variable INT C[10] level 1 offset 3
+  Variable INT B[10] level 1 offset 13
+  Write String "\n-->FUNC START: test_double_array\n"
+  Write String "This function will show double array use cases such as A[B[5]]\n"
+  Write String " Simple Array Checking \n"
+  ASSIGNMENT STATEMENT
+   VARIABLE C level 1 offset 3
+    [
+     NUMBER value 0
+    ]
+  is assigned
+   NUMBER value 1
+  ASSIGNMENT STATEMENT
+   VARIABLE C level 1 offset 3
+    [
+     NUMBER value 1
+    ]
+  is assigned
+   NUMBER value 2
+  ASSIGNMENT STATEMENT
+   VARIABLE B level 1 offset 13
+    [
+     NUMBER value 5
+    ]
+  is assigned
+   NUMBER value 1
+  ASSIGNMENT STATEMENT
+   VARIABLE C level 1 offset 3
+    [
+     VARIABLE B level 1 offset 13
+      [
+       NUMBER value 5
+      ]
+    ]
+  is assigned
+   NUMBER value 10
+  Write String "This should print out 10\n"
+  Write Expression
+   VARIABLE C level 1 offset 3
+    [
+     NUMBER value 1
+    ]
+  Write String "\n"
+  Write String "\n-->FUNC END\n"
+Function VOID test_array_passing level 0 offset 20
+ Parameter INT a level 1 offset 2
+ Parameter INT arr[] level 1 offset 3
+ Parameter INT b level 1 offset 4
+ Compound Statement
+  Variable INT i level 1 offset 5
+  Variable INT B[10] level 1 offset 6
+  Write String "\n-->FUNC START: test_array_passing\n"
+  Write String "This function will receives array as parameter and collaborate with local array\n"
+  ASSIGNMENT STATEMENT
+   VARIABLE B level 1 offset 6
+    [
+     NUMBER value 2
+    ]
+  is assigned
+   NUMBER value 10
+  Write String "should print 63\n"
+  Write Expression
+   EXPRESSION operator PLUS
+    EXPRESSION operator PLUS
+     EXPRESSION operator PLUS
+      VARIABLE arr level 1 offset 3
+       [
+        NUMBER value 3
+       ]
+      VARIABLE B level 1 offset 6
+       [
+        NUMBER value 2
+       ]
+     VARIABLE a level 1 offset 2
+    VARIABLE b level 1 offset 4
+  Write String "\n-->FUNC END\n"
+Function INT f level 0 offset 3
+ Compound Statement
+  RETURN STATEMENT
+   EXPRESSION operator Unary-minus
+    NUMBER value 10
+Function VOID test_unary level 0 offset 7
+ Compound Statement
+  Variable INT a level 1 offset 2
+  Write String "\n-->FUNC START: test_array_passing\n"
+  Write String "This function will test unary operations\n"
+  ASSIGNMENT STATEMENT
+   VARIABLE a level 1 offset 2
+  is assigned
+   NUMBER value 21
+  Write String "\nwill print -21\n"
+  Write Expression
+   EXPRESSION operator Unary-minus
+    VARIABLE a level 1 offset 2
+  Write String "\n"
+  Write String "\nwill print -5\n"
+  Write Expression
+   EXPRESSION operator Unary-minus
+    NUMBER value 5
+  Write String "\n"
+  Write String "\nwill print -10\n"
+  Write Expression
+   CALL STATEMENT function f
+    (
+     NULL
+    )
+  Write String "\n"
+  Write String "\nwill print 10\n"
+  Write Expression
+   EXPRESSION operator Unary-minus
+    CALL STATEMENT function f
+     (
+      NULL
+     )
+  Write String "\n"
+  Write String "\n-->FUNC END\n"
+Function INT test_break_continue level 0 offset 11
+ Parameter INT c level 1 offset 2
+ Compound Statement
+  Variable INT i level 1 offset 3
+  Variable INT j level 1 offset 4
+  Write String "\n-->FUNC START: test_break_continue\n"
+  Write String "This function will test break, contine, 4 will not print for continue, after 6 break the loop\n"
+  ASSIGNMENT STATEMENT
+   VARIABLE i level 1 offset 3
+  is assigned
+   NUMBER value 0
+  WHILE STATEMENT
+   WHILE expression
+    EXPRESSION operator <=
+     VARIABLE i level 1 offset 3
+     VARIABLE c level 1 offset 2
+   WHILE body
+    Compound Statement
+     ASSIGNMENT STATEMENT
+      VARIABLE i level 1 offset 3
+     is assigned
+      EXPRESSION operator PLUS
+       VARIABLE i level 1 offset 3
+       NUMBER value 1
+     IF STATEMENT
+      IF expression
+       EXPRESSION operator ==
+        VARIABLE i level 1 offset 3
+        NUMBER value 4
+      IF body
+       CONTINUE STATEMENT
+     IF STATEMENT
+      IF expression
+       EXPRESSION operator >
+        VARIABLE i level 1 offset 3
+        NUMBER value 6
+      IF body
+       BREAK STATEMENT
+     Write Expression
+      VARIABLE i level 1 offset 3
+     Write String "\n"
+  Write String "\n-->FUNC END\n"
+Function VOID test_if_else level 0 offset 11
+ Compound Statement
+  Variable INT i level 1 offset 2
+  Variable INT sum level 1 offset 3
+  Write String "\n-->FUNC START: test_if_else\n"
+  Write String "This function will show if else, if loop value is even it will sum them, else print the number\n"
+  ASSIGNMENT STATEMENT
+   VARIABLE i level 1 offset 2
+  is assigned
+   NUMBER value 0
+  ASSIGNMENT STATEMENT
+   VARIABLE sum level 1 offset 3
+  is assigned
+   NUMBER value 0
+  WHILE STATEMENT
+   WHILE expression
+    EXPRESSION operator <
+     VARIABLE i level 1 offset 2
+     NUMBER value 10
+   WHILE body
+    Compound Statement
+     IF STATEMENT
+      IF expression
+       EXPRESSION operator ==
+        EXPRESSION operator %
+         VARIABLE i level 1 offset 2
+         NUMBER value 2
+        NUMBER value 0
+      IF body
+       Compound Statement
+        ASSIGNMENT STATEMENT
+         VARIABLE sum level 1 offset 3
+        is assigned
+         EXPRESSION operator PLUS
+          VARIABLE sum level 1 offset 3
+          VARIABLE i level 1 offset 2
+      ELSE body
+       Compound Statement
+        Write Expression
+         VARIABLE i level 1 offset 2
+        Write String " "
+     ASSIGNMENT STATEMENT
+      VARIABLE i level 1 offset 2
+     is assigned
+      EXPRESSION operator PLUS
+       VARIABLE i level 1 offset 2
+       NUMBER value 1
+  Write String "\nSum is: "
+  Write Expression
+   VARIABLE sum level 1 offset 3
+  Write String "\n-->FUNC END\n"
+Function VOID main level 0 offset 12
+ Compound Statement
+  Variable INT arr[5] level 1 offset 2
+  Write String "\n ####  MAIN FUNC START ####\n"
+  Expression STATEMENT
+   CALL STATEMENT function test_read_write_global
+    (
+     NULL
+    )
+  Expression STATEMENT
+   CALL STATEMENT function test_if_else
+    (
+     NULL
+    )
+  Expression STATEMENT
+   CALL STATEMENT function test_while_loop
+    (
+     NULL
+    )
+  Expression STATEMENT
+   CALL STATEMENT function test_read_write_array_global
+    (
+     NULL
+    )
+  Expression STATEMENT
+   CALL STATEMENT function test_unary
+    (
+     NULL
+    )
+  ASSIGNMENT STATEMENT
+   VARIABLE arr level 1 offset 2
+    [
+     NUMBER value 3
+    ]
+  is assigned
+   NUMBER value 23
+  Expression STATEMENT
+   CALL STATEMENT function test_array_passing
+    (
+     CALL argument
+      NUMBER value 10
+     CALL argument
+      VARIABLE arr level 1 offset 2
+     CALL argument
+      NUMBER value 20
+    )
+  Expression STATEMENT
+   CALL STATEMENT function test_break_continue
+    (
+     CALL argument
+      NUMBER value 10
+    )
+  Write String "\n ####  MAIN FUNC END ####\n"
+Variable INT p level 0 offset 103
